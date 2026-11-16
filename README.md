@@ -214,35 +214,9 @@ Durante o desenvolvimento, executamos testes pelo terminal para validar a lista 
 | Carregamento integrado | Carregar base e listar categorias. | Apresentar as 10 orientações e três categorias. | **Funcionou**, conforme teste local. |
 | Perguntas e categorias | Utilizar opções 1 e 2 do menu integrado. | Obter orientação e navegar pelas categorias. | **Funcionou**, conforme teste informado. |
 | Atualização de campos | Alterar descrição e público-alvo pela opção 9. | Consultar e encontrar os novos valores. | **Funcionou**, conforme teste informado. |
-
-Para completar a entrega, vamos incluir prints do terminal mostrando o menu, a lista vazia, o cadastro, a consulta, a atualização, a exclusão, a pesquisa, a ordenação e uma entrada inválida. Os testes acima já foram realizados; faltam apenas os registros visuais.
-
-Podemos organizar os prints nesta pasta:
-
-```text
-evidencias/
-├── lista_vazia.png
-├── cadastro_e_consulta.png
-├── atualizacao_e_exclusao.png
-├── pesquisa_e_ordenacao.png
-└── entrada_invalida.png
 ```
 
-
-
-## 10. Relação com os requisitos da disciplina
-
-| Requisito de DSA | Implementação no projeto |
-|---|---|
-| CRUD e menu interativo | `main.py` e métodos de `ListaEncadeada`. |
-| Identificador único e campos obrigatórios | Validações no cadastro e pesquisa por ID. |
-| Lista simplesmente encadeada própria | `No` e `ListaEncadeada`, com referências explícitas. |
-| Busca implementada | Busca sequencial por ID e pesquisa por título. |
-| Ordenação implementada | Bubble Sort por título. |
-| Análise Big-O | Seção 7 deste README. |
-| Testes e evidências | Seção 9; anexar capturas do terminal antes da entrega. |
-
-## 11. Resultado final
+## 10. Resultado final
 
 Com essa versão, conseguimos aproveitar tudo o que já tínhamos desenvolvido em Python e acrescentar as funcionalidades de DSA sem precisar começar do zero. Implementamos a lista encadeada, fizemos as buscas e a ordenação manualmente e integramos tudo em um único menu.
 
