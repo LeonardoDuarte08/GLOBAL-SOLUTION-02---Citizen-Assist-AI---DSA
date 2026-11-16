@@ -54,7 +54,7 @@ GLOBAL-SOLUTION-02---Citizen-Assist-AI---DSA/
     └── base_conhecimento.json
 └── evidencias/
     └── vídeo/
-        └── GS - DSA - Demo.mp4
+        └── link youtube.txt
 ```
 
 **Responsabilidades:**
