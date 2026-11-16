@@ -1,0 +1,196 @@
+[
+    {
+        "id": 9,
+        "categoria": "Serviços Públicos Digitais",
+        "titulo": "Como acessar a Carteira de Trabalho Digital",
+        "palavras_chave": [
+            "carteira de trabalho",
+            "ctps digital",
+            "emprego digital",
+            "contrato trabalho"
+        ],
+        "resposta": "Baixe gratuitamente o aplicativo Carteira de Trabalho Digital ou acesse o servico pelo portal gov.br. Entre com sua conta gov.br para consultar seus vinculos e contratos de trabalho registrados.",
+        "documentos": [
+            "Conta gov.br para acesso ao servico oficial"
+        ],
+        "onde": "Aplicativo Carteira de Trabalho Digital ou portal gov.br",
+        "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/servicos/trabalhador/carteira-de-trabalho/carteira-de-trabalho-e-previdencia-social-ctps-1",
+        "verificado_em": "2026-11-15",
+        "publico_alvo": "Público em geral"
+    },
+    {
+        "id": 3,
+        "categoria": "Segurança Digital",
+        "titulo": "Como ativar a verificacao em duas etapas no gov.br",
+        "palavras_chave": [
+            "duas etapas",
+            "autenticacao",
+            "proteger conta",
+            "codigo de acesso"
+        ],
+        "resposta": "Abra o aplicativo gov.br e acesse Seguranca da conta para ativar a verificacao em duas etapas. O recurso esta disponivel para contas prata e ouro. O codigo de acesso e gerado pelo proprio aplicativo gov.br.",
+        "documentos": [],
+        "onde": "Aplicativo oficial gov.br",
+        "fonte": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/seguranca-da-conta",
+        "verificado_em": "2026-11-15",
+        "publico_alvo": "Público em geral"
+    },
+    {
+        "id": 6,
+        "categoria": "Direitos do Consumidor",
+        "titulo": "Como cancelar uma compra pela internet",
+        "palavras_chave": [
+            "cancelar compra",
+            "arrependimento",
+            "devolver produto",
+            "desistir compra"
+        ],
+        "resposta": "Em compras realizadas pela internet, o consumidor pode exercer o direito de arrependimento em ate 7 dias a partir do recebimento do produto ou da assinatura do contrato. Solicite o cancelamento ao fornecedor e guarde o comprovante do pedido.",
+        "documentos": [
+            "Comprovante da compra",
+            "Numero do pedido",
+            "Protocolo de cancelamento, se houver"
+        ],
+        "onde": "Atendimento da loja ou Procon",
+        "fonte": "https://www.procon.sp.gov.br/",
+        "verificado_em": "2026-11-15",
+        "publico_alvo": "Público em geral"
+    },
+    {
+        "id": 10,
+        "categoria": "Serviços Públicos Digitais",
+        "titulo": "Como consultar documentos digitais no gov.br",
+        "palavras_chave": [
+            "documentos digitais",
+            "carteira documentos",
+            "identidade digital",
+            "documento gov"
+        ],
+        "resposta": "Abra o aplicativo gov.br com uma conta prata ou ouro e escolha Carteira de documentos. Nessa area, voce pode consultar os documentos digitais disponiveis para sua conta. Alguns documentos precisam ser emitidos pelo orgao responsavel antes de aparecerem no aplicativo.",
+        "documentos": [
+            "Conta gov.br de nivel prata ou ouro"
+        ],
+        "onde": "Aplicativo oficial gov.br",
+        "fonte": "https://www.gov.br/governodigital/pt-br/identidade/carteira-de-documentos-digitais/",
+        "verificado_em": "2026-11-15",
+        "publico_alvo": "Público em geral"
+    },
+    {
+        "id": 8,
+        "categoria": "Serviços Públicos Digitais",
+        "titulo": "Como criar uma conta gov.br",
+        "palavras_chave": [
+            "criar conta gov",
+            "cadastro gov",
+            "primeiro acesso gov",
+            "registrar gov"
+        ],
+        "resposta": "Acesse o portal gov.br ou o aplicativo oficial e escolha a opcao de entrar ou criar sua conta. Siga as instrucoes para realizar o cadastro e validar sua identidade. Nunca compartilhe sua senha ou codigo de acesso.",
+        "documentos": [
+            "CPF para realizar o cadastro diretamente no portal oficial"
+        ],
+        "onde": "https://www.gov.br",
+        "fonte": "https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br",
+        "verificado_em": "2026-11-15",
+        "publico_alvo": "Público em geral"
+    },
+    {
+        "id": 1,
+        "categoria": "Segurança Digital",
+        "titulo": "Como identificar golpes de phishing",
+        "palavras_chave": [
+            "phishing",
+            "email falso",
+            "link suspeito",
+            "golpe digital"
+        ],
+        "resposta": "Desconfie de mensagens que pedem senhas, dados bancarios ou acesso urgente a links. Confira o endereco do site e procure os canais oficiais da empresa antes de informar qualquer dado.",
+        "documentos": [],
+        "onde": "Site ou aplicativo oficial da empresa envolvida",
+        "fonte": "https://www.gov.br/mcom/pt-br/noticias/2026/copy_of_julho/ataque-phishing-como-identificar-tentativas-de-fraude-na-internet/",
+        "verificado_em": "2026-11-15",
+        "publico_alvo": "Público em geral"
+    },
+    {
+        "id": 5,
+        "categoria": "Direitos do Consumidor",
+        "titulo": "Como registrar reclamacao sobre uma compra online",
+        "palavras_chave": [
+            "reclamar compra",
+            "reclamacao online",
+            "problema loja",
+            "consumidor gov"
+        ],
+        "resposta": "Primeiro, tente resolver o problema com a loja. Se nao conseguir, verifique se a empresa participa do Consumidor.gov.br. Acesse o portal com uma conta gov.br prata ou ouro, registre sua reclamacao e acompanhe a resposta da empresa.",
+        "documentos": [
+            "Numero do pedido",
+            "Comprovante da compra",
+            "Registros do contato com a loja"
+        ],
+        "onde": "https://www.consumidor.gov.br ou Procon",
+        "fonte": "https://www.consumidor.gov.br/pages/principal/",
+        "verificado_em": "2026-11-15",
+        "publico_alvo": "Público em geral"
+    },
+    {
+        "id": 2,
+        "categoria": "Segurança Digital",
+        "titulo": "O que fazer apos cair em um golpe pelo Pix",
+        "palavras_chave": [
+            "golpe pix",
+            "pix fraudulento",
+            "dinheiro perdido",
+            "devolver pix"
+        ],
+        "resposta": "Entre em contato imediatamente com seu banco ou utilize a opcao de contestar Pix no aplicativo. Solicite o Mecanismo Especial de Devolucao (MED) e registre um boletim de ocorrencia. O pedido do MED deve ser feito em ate 80 dias da transacao. A devolucao nao e garantida.",
+        "documentos": [
+            "Comprovante da transacao",
+            "Registros e evidencias do golpe",
+            "Boletim de ocorrencia, quando disponivel"
+        ],
+        "onde": "Banco utilizado na transferencia e Policia Civil",
+        "fonte": "https://www.bcb.gov.br/meubc/faqs/p/o-que-fazer-em-caso-de-golpe-fraude-ou-um-crime",
+        "verificado_em": "2026-11-15",
+        "publico_alvo": "Público em geral"
+    },
+    {
+        "id": 7,
+        "categoria": "Direitos do Consumidor",
+        "titulo": "O que fazer quando um produto nao e entregue",
+        "palavras_chave": [
+            "produto nao entregue",
+            "pedido atrasado",
+            "mercadoria nao chegou",
+            "problema entrega"
+        ],
+        "resposta": "Entre em contato com a loja e registre a reclamacao. Quando a oferta nao e cumprida, voce pode exigir a entrega, aceitar um produto equivalente ou cancelar a compra e solicitar a devolucao do valor pago. Guarde os comprovantes.",
+        "documentos": [
+            "Comprovante do pagamento",
+            "Numero do pedido",
+            "Registros das conversas com a loja"
+        ],
+        "onde": "Atendimento da loja, Consumidor.gov.br ou Procon",
+        "fonte": "https://www.procon.sp.gov.br/reclamacoes-de-compras-online/",
+        "verificado_em": "2026-11-15",
+        "publico_alvo": "Público em geral"
+    },
+    {
+        "id": 4,
+        "categoria": "Segurança Digital",
+        "titulo": "O que fazer quando uma conta gov.br e invadida",
+        "palavras_chave": [
+            "conta invadida",
+            "hackearam minha conta",
+            "roubaram minha conta",
+            "recuperar gov"
+        ],
+        "resposta": "Registre um boletim de ocorrencia e tente recuperar sua conta pelo site oficial gov.br. Altere sua senha imediatamente. Depois, ative a verificacao em duas etapas e confira os dispositivos autorizados. Se nao conseguir recuperar o acesso, procure o suporte oficial.",
+        "documentos": [
+            "Evidencias da invasao, quando disponiveis"
+        ],
+        "onde": "Portal gov.br e Delegacia Eletronica do seu estado",
+        "fonte": "https://www.gov.br/mj/pt-br/acesso-a-informacao/acoes-e-programas/sofri-um-golpe-e-agora/invadiram-minha-conta-gov.br",
+        "verificado_em": "2026-11-15",
+        "publico_alvo": "Público em geral"
+    }
+]

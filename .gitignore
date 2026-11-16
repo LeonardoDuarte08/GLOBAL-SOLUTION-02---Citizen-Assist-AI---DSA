@@ -1,0 +1,12 @@
+# Chaves e configuracoes privadas
+.env
+.env.*
+!.env.example
+
+# Arquivos temporarios do Python
+__pycache__/
+*.pyc
+
+# Dados gerados durante a execucao
+data/historico.json
+data/atendimentos.csv
