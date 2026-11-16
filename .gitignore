@@ -10,3 +10,5 @@ __pycache__/
 # Dados gerados durante a execucao
 data/historico.json
 data/atendimentos.csv
+
+evidencias/video/*.mp4
